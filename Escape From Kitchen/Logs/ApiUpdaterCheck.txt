@@ -1,0 +1,120 @@
+[api-updater (non-obsolete-error-filter)] 5.10.2021 16:01:29 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 201,3597ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 290ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 16:01:41 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92,9475ms
+moved types parse time: 107ms
+candidates parse time : 1ms
+C# parse time         : 315ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 16:18:27 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100,302ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 224ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 16:18:39 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83,9604ms
+moved types parse time: 103ms
+candidates parse time : 2ms
+C# parse time         : 276ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 16:19:10 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 90,878ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 220ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 16:46:10 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93,9647ms
+moved types parse time: 79ms
+candidates parse time : 3ms
+C# parse time         : 224ms
+candidates check time : 265ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 16:49:29 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,2737ms
+moved types parse time: 59ms
+candidates parse time : 2ms
+C# parse time         : 204ms
+candidates check time : 205ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 17:04:35 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 97,9505ms
+moved types parse time: 79ms
+candidates parse time : 4ms
+C# parse time         : 308ms
+candidates check time : 232ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 17:10:03 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 90,7053ms
+moved types parse time: 60ms
+candidates parse time : 3ms
+C# parse time         : 205ms
+candidates check time : 210ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 17:14:39 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 116,9391ms
+moved types parse time: 73ms
+candidates parse time : 3ms
+C# parse time         : 249ms
+candidates check time : 247ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 17:20:04 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83,9659ms
+moved types parse time: 60ms
+candidates parse time : 2ms
+C# parse time         : 213ms
+candidates check time : 186ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.10.2021 17:22:59 : Starting C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 90,9468ms
+moved types parse time: 65ms
+candidates parse time : 3ms
+C# parse time         : 215ms
+candidates check time : 204ms
+console write time    : 0ms
+
