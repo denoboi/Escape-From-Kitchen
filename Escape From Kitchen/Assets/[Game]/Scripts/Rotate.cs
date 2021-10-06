@@ -5,18 +5,18 @@ using UnityEngine;
 public class Rotate : MonoBehaviour
 {
 
-    private float _sensitivity;
-    private Vector3 _mouseReference;
-    private Vector3 _mouseOffset;
-    private Vector3 _rotation;
-    private bool _isRotating;
+    private float sensitivity;
+    private Vector3 mouseReference;
+    private Vector3 mouseOffset;
+    private Vector3 rotation;
+    private bool isRotating;
     [SerializeField]
     float speed;
 
     void Start()
     {
-        _sensitivity = 0.4f;
-        _rotation = Vector3.zero;
+        sensitivity = 0.4f;
+        rotation = Vector3.zero;
     }
 
     void Update()
@@ -25,31 +25,31 @@ public class Rotate : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             // rotating flag
-            _isRotating = true;
+            isRotating = true;
 
             // store mouse
-            _mouseReference = Input.mousePosition;
+            mouseReference = Input.mousePosition;
         }
         else if (Input.GetMouseButtonUp(0))
         {
             // rotating flag
-            _isRotating = false;
+            isRotating = false;
         }
 
 
-        if (_isRotating)
+        if (isRotating)
         {
             // offset
-            _mouseOffset = (Input.mousePosition - _mouseReference);
+            mouseOffset = (Input.mousePosition - mouseReference);
 
             // apply rotation
-            _rotation.y = (_mouseOffset.x + _mouseOffset.y) * _sensitivity;
+            rotation.y = (mouseOffset.x + mouseOffset.y) * sensitivity;
 
             // rotate
-            transform.Rotate(_rotation);
+            transform.Rotate(rotation);
 
             // store mouse
-            _mouseReference = Input.mousePosition;
+            mouseReference = Input.mousePosition;
         }
     }
 
